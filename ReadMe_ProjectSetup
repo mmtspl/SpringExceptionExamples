@@ -1,0 +1,22 @@
+
+Spring Global Exception Handler
+
+Start up the application :
+	1. Build and Run the application using Maven Build with   clean install spring-boot:run
+	
+	
+Url
+
+http://localhost:8080/users
+http://localhost:8080/users/4
+
+
+Exceptions
+
+http://localhost:8080/users/10
+  	
+  	
+  	
+   
+   
+   
